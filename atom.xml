@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ABShome.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-30T11:55:32.243Z</updated>
+    <title>ABS home</title>
+    <updated>2020-10-30T15:07:22.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ABShome.github.io"/>
     <link rel="self" href="https://ABShome.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>开启全新的加密世界</subtitle>
     <logo>https://ABShome.github.io/images/avatar.png</logo>
     <icon>https://ABShome.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, ABS home</rights>
+    <entry>
+        <title type="html"><![CDATA[公开信]]></title>
+        <id>https://ABShome.github.io/post/gong-kai-xin/</id>
+        <link href="https://ABShome.github.io/post/gong-kai-xin/">
+        </link>
+        <updated>2020-10-30T12:36:49.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好：<br>
+非常感谢<img src="https://ABShome.github.io/post-images/1604061432402.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello ABS123]]></title>
         <id>https://ABShome.github.io/post/hello-gridea/</id>
