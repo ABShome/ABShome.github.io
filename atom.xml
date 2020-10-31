@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ABShome.github.io</id>
-    <title>ABS home</title>
-    <updated>2020-10-30T15:07:22.080Z</updated>
+    <title>ABS中文家园</title>
+    <updated>2020-10-31T02:28:52.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ABShome.github.io"/>
     <link rel="self" href="https://ABShome.github.io/atom.xml"/>
     <subtitle>开启全新的加密世界</subtitle>
     <logo>https://ABShome.github.io/images/avatar.png</logo>
     <icon>https://ABShome.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ABS home</rights>
+    <rights>All rights reserved 2020, ABS中文家园</rights>
+    <entry>
+        <title type="html"><![CDATA[ABS链原始社区致广大社区成员的POWS2.0升级的冬季攻势书]]></title>
+        <id>https://ABShome.github.io/post/hello-gridea/</id>
+        <link href="https://ABShome.github.io/post/hello-gridea/">
+        </link>
+        <updated>2020-10-31T02:27:57.000Z</updated>
+        <content type="html"><![CDATA[<p>ABS链原始社区致广大社区成员的POWS2.0升级的冬季攻势书</p>
+<p>ABS链原始技术社区，始于隐私计算，融合区块链，致力于打造加密世界，成立至今满三年，加密世界渐现雏形。</p>
+<p>但ABS链受惠于投资机构也受陷于投资机构，上交易所后投资机构退出导致价格暴跌，此时偏又遇上ABS链中文最大社群因特殊原因分崩离析，连锁反应引起矿难，全网算力跌至低谷，项目前景天寒地冻。在此诚挚感谢诸君不离不弃。</p>
+<p>低谷的冰冷让躁动归于平静，也终能静下心思索一路的是与非。矿难后，ABS链原始社区未曾停止过技术和应用的推进，技术层面在加密数据的AI处理上取得了很好的进展，应用层面上落地应用不断累积。然而ABS链最大社群的分崩离析使落地应用失去了用户基础，生态无法成型。</p>
+<p>区块链的核心是共识算法，要突破困境唯有从共识算法入手。ABS链目前的共识算法是POWS，“W”是工作量证明采用的是计算机工作量，“S”是权益证明通过持币挖矿。两者成功进行的基础是建立在ABS链最大社群向心力良好，在社群高涨情绪的支撑下形成稳定的分布式结构，然而，现在POWS成功的基础已然消失。</p>
+<p>唯有重构共识算法，支撑社群1至100的裂变突破，ABS链方能迎来春暖花开。基于此，原始社区提出POWS2.0共识算法，即用人类工作量证明替代计算机工作量证明，用持币推广挖矿替代持币挖矿。通过持币推广挖矿，奖励推广人，实现社群的稳步扩张；在社群活跃度恢复后，切换人类工作量证明，实现网络的高效稳定去中心化。人类工作量证明的挖矿激励机制必将进一步刺激社群的活跃度，从而推进加密世界应用的落地。</p>
+<p>原始社区计划按下述步骤逐步推进ABS链的升级：</p>
+<ol>
+<li>
+<p>设立持币推广矿池：目前流动的ABS链的通证不超过100亿枚，原始社区将仅保留50亿枚的ABS，剩余850亿ABS将全部放入矿池，通过持币推广挖矿预计20年挖出，具体出矿规则将在主网升级完成后公布；</p>
+</li>
+<li>
+<p>主链升级映射：主链升级后，持币用户需手动完成映射。升级完一个月后，未完成映射的币将被投放到矿池中，通过持币推广挖矿产出；</p>
+</li>
+<li>
+<p>持币抵押挖矿计划：主链升级后，持币用户将币抵押到矿池可产出ABS链的通证，推广将获得更高的挖矿产出；</p>
+</li>
+<li>
+<p>人类工作证明升级计划：</p>
+</li>
+</ol>
+<p>1）构建并上线分布式活体检测网络；</p>
+<p>2）基于活体检测网络，人类工作量证明将替代计算机工作量，活跃度高的地址将取代算力高的地址获得更高的挖矿产出；</p>
+<p>ABS链已经开启了共识算法升级之路，上述工作已进入测试阶段。</p>
+<p>POWS2.0：以持币挖矿锁流动性，以推广挖矿扩张社群，以人类工作量证明刺激用户活跃度，必将塑造繁荣的加密世界。</p>
+<p>ABS的寒冬已过，如今春寒料峭，有了社群的共识，必将春暖花开。</p>
+<p>ABS链原始社区</p>
+<p>2020年9月18日</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开信]]></title>
         <id>https://ABShome.github.io/post/gong-kai-xin/</id>
@@ -18,19 +54,6 @@
         <updated>2020-10-30T12:36:49.000Z</updated>
         <content type="html"><![CDATA[<p>大家好：<br>
 非常感谢<img src="https://ABShome.github.io/post-images/1604061432402.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello ABS123]]></title>
-        <id>https://ABShome.github.io/post/hello-gridea/</id>
-        <link href="https://ABShome.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>#公告信</p>
-<h2 id="123-你哈">123 你哈😀</h2>
-<pre><code>n你好阿苏封闭班恩斐然你你
-</code></pre>
-<p>##你好啊</p>
 ]]></content>
     </entry>
 </feed>
